@@ -64,8 +64,7 @@ $ git config --global user.email "yourname@email.com"
 可以用下列命令查看设置信息
 
 ```
-$ git config user.name
-$ git config user.email
+$ git config --list
 ```
 
 **2.初始化仓库**
